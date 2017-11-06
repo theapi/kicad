@@ -1,0 +1,13 @@
+inch:
+
+         Clearance | Track width | Via Dia | Via Drill | uVia Dia | uVia Drill
+Default: 0.008     | 0.01        | 0.03    | 0.016     | 0.012    | 0.004
+   Wide: 0.01      | 0.014       | 0.03    | 0.016     | 0.012    | 0.004
+
+Global:
+  Min track width:   0.006
+  Min via diameter:  0.027
+  Min via drill dia: 0.013
+  
+  Min uvia diameter:  0
+  Min uvia drill dia: 0
